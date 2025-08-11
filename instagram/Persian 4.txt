@@ -1,0 +1,38 @@
+🎮 بخش چهارم ساخت بازی MetaKish
+در این بخش، آسمان شب به بازی اضافه شده که با یک تایمر ۸۶۴ ثانیه‌ای کنترل می‌شود؛ یعنی ۱۰۰ برابر سریع‌تر از دنیای واقعی، و یک شبانه‌روز در بازی معادل ۱۴ دقیقه و ۲۴ ثانیه است. این زمان توسط یک کد کنترل می‌شود (کدها و مدل‌های سه‌بعدی در توضیحات موجود است).
+یکی از اهداف اصلی این بازی، معرفی و ترویج گردشگری مجازی در جزیره کیش و همچنین کسب درآمد از Kish Coin است – یک ارز دیجیتال با ارزش واقعی در دنیای واقعی. 💰🏝️
+
+🔗 لینک گیت‌هاب من:
+https://github.com/mr-mm12/
+
+برخی از مدل‌ها و کدهای سه‌بعدی قسمت‌های قبلی یا بعدی را می‌توانید از طریق لینک بالا در گیت‌هاب دانلود کنید. 👆👆
+
+📦 دانلود مدل سه‌بعدی فرودگاه کیش:
+https://github.com/mr-mm12/meta_kish/blob/main/3D models/airport_outside_full2.fbx
+
+🗒️ دانلود کد آسمان روز (ساده):
+https://github.com/mr-mm12/meta_kish/blob/main/Codes/SunController.cs
+
+🗒️ دانلود کد آسمان روز و شب (پیشرفته):
+https://github.com/mr-mm12/meta_kish/blob/main/Codes/Sun%26moonController.cs
+
+🗒️ دانلود کد حرکت ماشین:
+قسمت ۱:
+https://github.com/mr-mm12/meta_kish/blob/main/Codes/CarAutoController.cs
+قسمت ۲:
+https://github.com/mr-mm12/meta_kish/blob/main/Codes/CarCameraOrbit.cs
+قسمت ۳:
+https://github.com/mr-mm12/meta_kish/blob/main/Codes/CarEntryController.cs
+
+♫ دانلود افکت صدای باز و بسته شدن در:
+https://github.com/mr-mm12/meta_kish/blob/main/Sound_effects/door_open%26close.wav
+
+♫ دانلود افکت صدای تایپ:
+https://github.com/mr-mm12/meta_kish/blob/main/Sound_effects/type_sound.wav
+
+🖼️ دانلود تکسچر ماه:
+https://github.com/mr-mm12/meta_kish/blob/main/Textures/lroc_color_poles_1k.jpg
+
+👉 برای دیدن ویدیوهای بیشتر ما را دنبال کنید – هدف ما شبیه‌سازی کامل جزیره کیش است!
+
+#کیش #گیتهاب #جزیره #متاورس #توسعه #مختاری #بلندر #کوین #کد #سه‌بعدی #یونیتی #محمدرضا #بازی #لپتاپ
