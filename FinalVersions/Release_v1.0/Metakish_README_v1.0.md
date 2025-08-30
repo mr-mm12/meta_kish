@@ -1,4 +1,4 @@
-# Metakish - Official Release v1.1
+# Metakish - Official Release v1.0
 
 This is the **first official version** of the game *Metakish*.  
 It has been developed by two individuals:  
