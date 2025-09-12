@@ -1,6 +1,6 @@
 # 🌴 MetaKish
 
-**MetaKish** is a game development project that aims to recreate the beautiful island of **Kish** as an **online metaverse world**.  
+**MetaKish** is a game development project that aims to recreate the beautiful island of **Kish** as an **online metaverse world** Starting from May 2, 2025.  
 
 In this world, players will be able to:
 - Explore a fully recreated virtual Kish Island.  
