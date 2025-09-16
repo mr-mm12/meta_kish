@@ -5,7 +5,6 @@
 In this world, players will be able to:
 - Explore a fully recreated virtual Kish Island.  
 - Interact and socialize with other players.  
-- Collect **Kish Coin**, an in-game cryptocurrency with **real-world value**.  
 
 ---
 
@@ -29,7 +28,6 @@ We are actively working on:
 We welcome contributions from:
 - Developers  
 - Designers  
-- Blockchain enthusiasts  
 - Gamers  
 
 You can support the project by:
@@ -40,7 +38,6 @@ You can support the project by:
 ---
 
 ## 📌 Future Plans
-- NFT marketplace integration  
 - Community-driven events  
 - Expansion of Kish Coin utility both in-game and beyond  
 
