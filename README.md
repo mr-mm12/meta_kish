@@ -9,8 +9,7 @@ In this world, players will be able to:
 ---
 
 ## 🎯 Project Goals
-- Build a metaverse inspired by Kish Island.  
-- Integrate blockchain technology to power a digital economy using **Kish Coin**.  
+- Build a metaverse inspired by Kish Island.   
 - Provide players with both entertainment and financial opportunities.  
 
 ---
