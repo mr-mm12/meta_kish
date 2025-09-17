@@ -38,7 +38,6 @@ You can support the project by:
 
 ## 📌 Future Plans
 - Community-driven events  
-- Expansion of Kish Coin utility both in-game and beyond  
 
 ---
 
