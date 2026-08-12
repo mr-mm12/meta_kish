@@ -19,7 +19,8 @@ MetaKish is currently in the **early stages of development**.
 We are actively working on:
 - Core gameplay mechanics  
 - Multiplayer systems  
-- In-game economy  
+- In-game economy
+- digital currency
 
 ---
 
